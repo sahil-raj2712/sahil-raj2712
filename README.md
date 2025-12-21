@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Sahil
 
-<!--
-**sahil-raj2712/sahil-raj2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech in Computer Science (AI & ML)  
+Aspiring Software Developer | Java • Python • C++
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Languages:** Java, Python, C  
+- **DSA:** Arrays, Linked Lists, Stack, Queue, Greedy Algorithms  
+- **Concepts:** OOP, Algorithm Analysis  
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Student Management System** – Java, AWT, Swing  
+- **Employee Management System** – Python, OOP, JSON
+
+### 📌 Currently
+- Preparing for Software Development Internships  
+- Practicing DSA and competitive coding daily
