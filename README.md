@@ -5,7 +5,7 @@ Aspiring Software Developer | Java • Python • C++
 
 ### 🛠️ Skills
 - **Languages:** Java, Python, C  
-- **DSA:** Arrays, Linked Lists, Stack, Queue, Greedy Algorithms  
+- **DSA:** Arrays, Linked Lists, Stack, Queue, Greedy Algorithms, Trees, Graphs, Dynamic Programming  
 - **Concepts:** OOP, Algorithm Analysis  
 - **Tools:** Git, GitHub
 
