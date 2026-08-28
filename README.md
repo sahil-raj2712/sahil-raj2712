@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sahil
 
 B.Tech in Computer Science (AI & ML)  
-Aspiring Software Developer | Java • Python • C++
+Aspiring Software Developer | Java • Python • C
 
 ### 🛠️ Skills
 - **Languages:** Java, Python, C  
